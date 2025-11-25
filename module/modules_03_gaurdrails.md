@@ -44,4 +44,4 @@ IF section word count < 50:
 ## Output
 - Validated summaries only.
 - Standardized warning messages added where applicable.
-- Any summaries violating strict mode rules are replaced with the appropriate explanation message.
+- Any summaries violating strict mode rules are replaced with the appropriate explanation message. 
