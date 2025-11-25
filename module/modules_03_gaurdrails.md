@@ -20,7 +20,7 @@ IF evidence_mode = "strict":
   "The source text does not provide enough detail to summarize this section in strict evidence mode."
 
 ### 3. Section Validation Rules
-
+ 
 IF section text is missing or empty:
 - Output:
   "Section skipped: no usable text was provided."
