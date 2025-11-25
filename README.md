@@ -8,7 +8,7 @@ The system follows a Travel Planner-style architecture where each module perform
 
 ## Repository Structure
 
-CISC101-Group#-PaperSummarizer  
+CISC101-Group14-PaperSummarizer  
 │  
 ├── system_prompt.md  
 ├── README.md  
